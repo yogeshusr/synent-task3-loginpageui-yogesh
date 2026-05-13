@@ -1,3 +1,7 @@
+LIVE PREVIEW:
+
+https://synent-task3-loginpageui-yogesh.netlify.app/
+
 # Login Page UI
 
 A simple and responsive Login Page UI built using HTML and CSS.  
